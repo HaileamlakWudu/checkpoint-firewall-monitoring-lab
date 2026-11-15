@@ -180,19 +180,8 @@ The evidence screenshots support the practical tasks as follows:
 | B1 – Gateway monitoring | `e9-...`, `e10-...`, and `e11-...` screenshots |
 | B2 – SmartView Web and audit evidence | `e12-...`, `e13-...`, and `e14-...` screenshots |
 
-### 7. Recommendations
 
-Based on the observations collected during the assessment, the following recommendations are appropriate:
-
-1. Continue monitoring gateway CPU, memory, and disk utilization.
-2. Investigate unexpected external connection attempts using firewall logs and other available security evidence.
-3. Prefer secure administration protocols such as SSH instead of Telnet.
-4. Review firewall rules regularly to ensure that access controls remain appropriate.
-5. Maintain appropriate logging, indexing, and log-retention configurations.
-6. Review administrative audit records to maintain accountability for configuration changes.
-7. Continue checking High Availability status and member health.
-
-### 8. Conclusion
+### 7. Conclusion
 
 The practical assessment demonstrated the use of Check Point monitoring and logging tools to review gateway configurations, examine firewall events, build and test queries, monitor system counters, and inspect administrative audit records.
 
