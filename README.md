@@ -1,6 +1,6 @@
 
 
-# Check Point Firewall Monitoring and Log Analysis
+# CCSP106 Security Operations Monitoring
 ## Practical Assessment – README
 
 ### 1. Project Overview
