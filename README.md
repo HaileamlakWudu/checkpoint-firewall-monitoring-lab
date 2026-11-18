@@ -189,5 +189,4 @@ The recorded Telnet connection attempt was dropped by the Stealth Rule. The gate
 
 The screenshots and accompanying report provide supporting evidence for the completed assessment tasks.
 
-**Note:** This README summarizes the work and its findings. The detailed report and original screenshots should be submitted together as the assessment evidence package.
 
